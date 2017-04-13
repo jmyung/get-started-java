@@ -5,5 +5,5 @@ applications:
    name: amg-dev-teaminsights-get-started-java
    host: amg-dev-teaminsights-get-started-java
    memory: 1G
-   instances: 2
+   instances: 3
    buildpack: https://github.com/cloudfoundry-community/jboss-buildpack.git
